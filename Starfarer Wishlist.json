@@ -1,0 +1,46 @@
+{
+    "description": "made by kyracrystal, i dont care much for the meta",
+    "name": "Starfarer Wishlist",
+    "data": [
+        {
+            "description": "",
+            "hash": 1111334348,
+            "name": "Icebreaker",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2848175214
+                ],
+                [
+                    3465198467
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "",
+            "hash": 2350354266,
+            "name": "Alethonym",
+            "plugs": [
+                [
+                    3809316345
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    2405598968
+                ],
+                [
+                    1067908860
+                ]
+            ],
+            "tags": []
+        }
+    ]
+}
